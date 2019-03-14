@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+c:\users\hp\source\repos\ysamulti\ysamulti\MyForm.h(363): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysamulti\ysamulti\MyForm.h(364): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysamulti\ysamulti\MyForm.h(378): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysamulti\ysamulti\MyForm.h(379): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysamulti\ysamulti\MyForm.h(393): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysamulti\ysamulti\MyForm.h(394): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysamulti\ysamulti\MyForm.h(408): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysamulti\ysamulti\MyForm.h(409): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysamulti\ysamulti\MyForm.h(423): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysamulti\ysamulti\MyForm.h(424): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysamulti\ysamulti\MyForm.h(520): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysamulti\ysamulti\MyForm.h(530): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysamulti\ysamulti\MyForm.h(568): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\hp\source\repos\ysamulti\ysamulti\MyForm.h(569): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  YsaMulti.vcxproj -> C:\Users\Hp\source\repos\YsaMulti\Debug\YsaMulti.exe
